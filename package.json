@@ -1,5 +1,5 @@
 {
-  "name": "@robbin/eslint-config",
+  "name": "@robbinapp/eslint-config",
   "version": "1.0.0",
   "description": "Robbin Eslint Config",
   "main": "index.js",
